@@ -5,3 +5,4 @@ there is some problem in current logic in this program which i will fix it in so
 - I added a program for calculator using loops functions and some other concepts for practice of loops functions and basics i will make it more enhanced in future 
  Added program of quiz game now which has 5 questions to answer it had some very basic questions which user had to answer and get score and correct answer percentage
 added mini atm too and i will add an enhanced atm program too and some others too as i built them
+- i added now a perfect guess program 
